@@ -53,8 +53,6 @@ set enc=utf8
 " colors
 colorscheme kawaii
 
-set colorcolumn=110
-
 " tabs
 set smarttab
 set expandtab
